@@ -9,7 +9,7 @@ $translation = GoogleTranslate::translate($source, $target, $text);
 echo '<pre>';
 print_r($translation);
 echo '</pre>';
-//*************************
+//************************************************************
 
 
 /**
